@@ -16,7 +16,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.nio.file.Paths;
 
-public class IndexerFiles {
+public class IndexFiles {
 
     // Changed analyzer to EnglishAnalyzer
     private static EnglishAnalyzer docAnalyzer = new EnglishAnalyzer();

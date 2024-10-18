@@ -19,7 +19,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-public class SearcherFiles {
+public class SearchFiles {
     public static void main(String[] args) throws Exception {
         if (args.length < 4) {
             System.out.println("Usage: SearchFiles <indexDir> <queriesFile> <scoreType> <outputFile>");
